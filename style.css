@@ -13,8 +13,8 @@
     --fw-bold: 900;
 
     --clr-light: rgb(173, 184, 197);
-    --clr-dark: #16104e;
-    --clr-accent: #3e2083;
+    --clr-dark: #dfdee2;
+    --clr-accent: #d9d4e6;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -48,7 +48,6 @@ img {
     display: block;
     max-width: 100%;
 }
-
 
 
 
